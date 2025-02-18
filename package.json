@@ -2,7 +2,7 @@
   "name": "spotify-controls-linux",
   "displayName": "spotify controls (linux)",
   "description": "control your spotify form vscode (linux only :sob:)",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.97.0"
   },
@@ -63,8 +63,8 @@
     "name": "Ruhannn"
   },
   "repository": {
-    "url": "https://github.com/Ruhannn/"
+    "url": "https://github.com/Ruhannn/spotify-controls-linux"
   },
   "publisher": "Ruhan",
-  "icon": "assets/icon.png"
+  "icon": "assets/logo.png"
 }

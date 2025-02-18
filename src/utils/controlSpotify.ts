@@ -46,7 +46,7 @@ class ControlSpotify {
     }
 
     async playPause(): Promise<void> {
-        await this.playerInterface.PlayPause()
+        await this.playerInterface.PlayPause();
     }
     async pause(): Promise<void> {
         await this.playerInterface.Pause();
